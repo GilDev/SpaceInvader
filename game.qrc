@@ -1,0 +1,49 @@
+<RCC>
+    <qresource prefix="/player">
+        <file>banane.png</file>
+        <file>BANANE 1.png</file>
+        <file>KOEUR.png</file>
+        <file>KOEUR 2.png</file>
+        <file>bar1.png</file>
+        <file>bar2.png</file>
+        <file>bar3.png</file>
+        <file>bar4.png</file>
+        <file>emptyBar.png</file>
+        <file>fullBar.png</file>
+        <file>bonobo 6.png</file>
+        <file>bonobo 6 200.png</file>
+        <file>bonobo 5.png</file>
+        <file>bonobo 5 200.png</file>
+        <file>bonobo 4.png</file>
+        <file>bonobo 4 200.png</file>
+        <file>bonobo 3.png</file>
+        <file>bonobo 3 200.png</file>
+        <file>bonobo 2.png</file>
+        <file>bonobo 2 200.png</file>
+        <file>bonobo 1.png</file>
+        <file>bonobo 1 200.png</file>
+        <file>coffredemerde.png</file>
+        <file>BANANE rouge.png</file>
+    </qresource>
+    <qresource prefix="/game">
+        <file>GameOver.png</file>
+        <file>Title.png</file>
+        <file>BackGround.png</file>
+        <file>Ecran_custom.png</file>
+        <file>firstscreen.png</file>
+        <file>entourersetting.png</file>
+        <file>entourerquiter.png</file>
+        <file>entourerplay.png</file>
+        <file>entourercustom.png</file>
+    </qresource>
+    <qresource prefix="/musics">
+        <file>MLG Darude Sandstorm.mp3</file>
+        <file>Hitmarker - MLG Sound Effect (HD).mp3</file>
+        <file>WOOOOOWA.mp3</file>
+    </qresource>
+    <qresource prefix="/enemy">
+        <file>patate.png</file>
+        <file>REDA.png</file>
+        <file>kriper.png</file>
+    </qresource>
+</RCC>
